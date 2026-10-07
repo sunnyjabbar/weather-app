@@ -1,6 +1,6 @@
 # Weather App
 
-A simple Python weather app that uses the OpenWeather API to get current weather information for a city.
+A Python weather app that uses the OpenWeather API to get current weather information for a city.
 
 #### Features
 
