@@ -24,7 +24,7 @@ A simple Python weather app that uses the OpenWeather API to get current weather
 2. Install the requests library:
 
 ```bash
-pip install requests# weather-app
+pip install requests weather-app
 ```
 
 3. Copy the code from weather.py file.
