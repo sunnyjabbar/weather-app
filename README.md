@@ -4,19 +4,19 @@ A simple Python weather app that uses the OpenWeather API to get current weather
 
 ## Features
 
-- Enter a city name
-- Get the current weather
-- Display temperature in Celsius
-- Display weather condition
-- Display humidity
-- Display wind speed
-- Handles invalid city names
+1. Enter a city name
+2. Get the current weather
+3. Display temperature in Celsius
+4. Display weather condition
+5. Display humidity
+6. Display wind speed
+7. Handles invalid city names
 
 ## Technologies Used
 
-- Python
-- Requests module
-- [OpenWeather](https://openweathermap.org/) API
+1. Python
+2. Requests module
+3. [OpenWeather](https://openweathermap.org/) API
 
 ## How to Run
 
